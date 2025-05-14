@@ -11,9 +11,7 @@ The intent of this assignment is to build towards a mastery of using HTML and CS
 - Use absolute and relative links correctly.
 - Include at least one image in the webpage and addressing its accessibility appropriately.
 - Use CSS selectors.
-- Apply CSS stylesheets to achieve consistent appearance of the elements as directed.\
-
-
+- Apply CSS stylesheets to achieve consistent appearance of the elements as directed.
 
 ## Submission
 All assignment files must be committed to your assignment GitHub repository. Late changes will be tracked in GitHub after the deadline. The contribution of both team members must be visible in the project history. 
