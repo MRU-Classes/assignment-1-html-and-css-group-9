@@ -52,6 +52,33 @@ body {
     background-color: white;
     padding: 20px;
  }
+  .table {
+   width: auto;
+   border-collapse: collapse;
+   margin: auto;
+ }
+ th, td {
+   border: 2px solid black;
+   padding: 12px;
+   text-align: left;
+ }
+
+ th {
+   background-color: #c1d8f0;
+   color: black;
+ }
+ tr:nth-child(even) {
+   background-color: lightblue;
+   color: black;
+ }
+ tr:nth-child(odd) {
+   background-color: #c1d8f0;
+   color: black;
+ }
+tr:hover {
+   background-color: lightgray;
+}
+
  .footer {
     padding: 20px;
     text-align: center;
