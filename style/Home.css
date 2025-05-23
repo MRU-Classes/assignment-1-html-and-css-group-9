@@ -1,4 +1,7 @@
-
+.navbar a[href ="Home.html"]{
+  background-color: black ;
+  color: white;
+}
 body {
     font-family: "Times New Roman", Times, serif;
   }
@@ -8,6 +11,7 @@ body {
     padding: 40px;
     text-align: center;
   }
+ 
   .navbar {
        overflow: hidden;
        background-color: #4663ac;
@@ -82,7 +86,12 @@ body {
 
   .first-letter {
     font-size: 1.5em;
+    color:black;
     font-weight: bold;
+  }
+
+  .p {
+    font-weight: normal;
   }
 
   .announcement {
@@ -97,8 +106,10 @@ body {
     color: #b30000;
     font-size: 1.2em;
   }
-
-  footer {
+  .a:hover{
+    color:orange;
+  }
+  .footer {
     background-color: #ddd;
     text-align: center;
     padding: 20px;

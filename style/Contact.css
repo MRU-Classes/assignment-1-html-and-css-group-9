@@ -1,4 +1,7 @@
-
+.navbar a[href ="Contact.html"]{
+   background-color: black ;
+   color: white;
+}
 body {
     font-family: "Times New Roman", Times, serif;
     margin: 0;
