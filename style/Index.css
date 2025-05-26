@@ -8,10 +8,16 @@
   padding: 0;
 }
 
-header {
+.header {
   background-color: #c1d8f0;
   padding: 20px;
   text-align: center;
+  color: black;
+}
+
+.header h2 {
+  font-size: 30px;
+  color: black;
 }
 .navbar {
      overflow: hidden;
@@ -81,3 +87,4 @@ h2, h3 {
   padding: 20px;
   margin-top: 40px;
 }
+
