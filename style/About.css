@@ -46,6 +46,12 @@ body {
     background-color: #c1d8f0;
     padding: 20px;
  }
+ img {
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 20px;
+ }
  .main {
     flex: 70%;
     background-color: white;
